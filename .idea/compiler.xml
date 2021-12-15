@@ -13,7 +13,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="petshop-api.petshop-api.main" target="11" />
+      <module name="petshop-api.petshop-api.main~1" target="11" />
       <module name="petshop-api.petshop-api.test" target="11" />
+      <module name="petshop-api.petshop-api.test~1" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
